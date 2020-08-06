@@ -1,0 +1,10 @@
+.CoorCont{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-style: solid;
+    border-color: black;
+    margin:3px;
+    padding: 5px;
+}

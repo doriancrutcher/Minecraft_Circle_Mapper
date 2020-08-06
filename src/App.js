@@ -1,26 +1,40 @@
-import React from 'react';
-import logo from './logo.svg';
+import React, { Component } from 'react';
 import './App.css';
+import Controls from './Components/Controls/Controls'
+import Coordinates from './Components/Coordinates/Coordinates'
 
-function App() {
+class App extends Component {
+  constructor (props){
+    super(props)
+    this.state={
+      showCoordinates:false,
+      DisplayData:<div>hhi</div>
+    }
+  
+
+  }
+
+
+
+  render(){
   return (
+    
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <div className="TitleBlock"> 
+      <div>Minecraft Circle Generator</div>
+    
+      </div>
+      <Controls/>
+      <div className="Signature"> 
+      <div className="ContactBlock">
+      <div className="ContactItems">Dorian Kinoo Crutcher</div>
+      <div className="ContactItems">Email: doriankinoorutcher@gmail.com</div>
+      </div>
+      </div>
     </div>
+    
   );
+  }
 }
 
 export default App;
