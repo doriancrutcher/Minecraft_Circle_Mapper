@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/doriancrutcher/Minecraft_Circle_Mapper.git/static/css/main.4dd4b9cf.chunk.css",
-    "main.js": "/doriancrutcher/Minecraft_Circle_Mapper.git/static/js/main.caaeedbb.chunk.js",
-    "main.js.map": "/doriancrutcher/Minecraft_Circle_Mapper.git/static/js/main.caaeedbb.chunk.js.map",
-    "runtime-main.js": "/doriancrutcher/Minecraft_Circle_Mapper.git/static/js/runtime-main.b1250e4e.js",
-    "runtime-main.js.map": "/doriancrutcher/Minecraft_Circle_Mapper.git/static/js/runtime-main.b1250e4e.js.map",
-    "static/js/2.9c62dadc.chunk.js": "/doriancrutcher/Minecraft_Circle_Mapper.git/static/js/2.9c62dadc.chunk.js",
-    "static/js/2.9c62dadc.chunk.js.map": "/doriancrutcher/Minecraft_Circle_Mapper.git/static/js/2.9c62dadc.chunk.js.map",
-    "index.html": "/doriancrutcher/Minecraft_Circle_Mapper.git/index.html",
-    "precache-manifest.29db89e6d4468f138c1d3cd338dfbc16.js": "/doriancrutcher/Minecraft_Circle_Mapper.git/precache-manifest.29db89e6d4468f138c1d3cd338dfbc16.js",
-    "service-worker.js": "/doriancrutcher/Minecraft_Circle_Mapper.git/service-worker.js",
-    "static/css/main.4dd4b9cf.chunk.css.map": "/doriancrutcher/Minecraft_Circle_Mapper.git/static/css/main.4dd4b9cf.chunk.css.map",
-    "static/js/2.9c62dadc.chunk.js.LICENSE.txt": "/doriancrutcher/Minecraft_Circle_Mapper.git/static/js/2.9c62dadc.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/doriancrutcher/Minecraft_Circle_Mapper.git/static/media/MinecraftWallaPaper.87192cf2.jpg"
+    "main.css": "/deploy-react/static/css/main.28829b3a.chunk.css",
+    "main.js": "/deploy-react/static/js/main.39921984.chunk.js",
+    "main.js.map": "/deploy-react/static/js/main.39921984.chunk.js.map",
+    "runtime-main.js": "/deploy-react/static/js/runtime-main.2f373fe6.js",
+    "runtime-main.js.map": "/deploy-react/static/js/runtime-main.2f373fe6.js.map",
+    "static/js/2.9c62dadc.chunk.js": "/deploy-react/static/js/2.9c62dadc.chunk.js",
+    "static/js/2.9c62dadc.chunk.js.map": "/deploy-react/static/js/2.9c62dadc.chunk.js.map",
+    "index.html": "/deploy-react/index.html",
+    "precache-manifest.ad44999c2877a7b6f304262e3b7a45bd.js": "/deploy-react/precache-manifest.ad44999c2877a7b6f304262e3b7a45bd.js",
+    "service-worker.js": "/deploy-react/service-worker.js",
+    "static/css/main.28829b3a.chunk.css.map": "/deploy-react/static/css/main.28829b3a.chunk.css.map",
+    "static/js/2.9c62dadc.chunk.js.LICENSE.txt": "/deploy-react/static/js/2.9c62dadc.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/deploy-react/static/media/MinecraftWallaPaper.87192cf2.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b1250e4e.js",
+    "static/js/runtime-main.2f373fe6.js",
     "static/js/2.9c62dadc.chunk.js",
-    "static/css/main.4dd4b9cf.chunk.css",
-    "static/js/main.caaeedbb.chunk.js"
+    "static/css/main.28829b3a.chunk.css",
+    "static/js/main.39921984.chunk.js"
   ]
 }
