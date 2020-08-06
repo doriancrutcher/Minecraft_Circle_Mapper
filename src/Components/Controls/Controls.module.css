@@ -1,7 +1,6 @@
 .CoorCont{
     display:flex;
     flex-direction: row;
-    overflow: scroll;
     align-items: center;
     justify-content: center;
     border-style: none;
