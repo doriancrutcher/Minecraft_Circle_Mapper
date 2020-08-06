@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9db891bd8997e86b24dfdb3592d2efef",
+    "revision": "2975764ee237130f47e4efce4062c833",
     "url": "/minecraft_circle_mapper/index.html"
   },
   {
-    "revision": "2f18d9e75145e402ad40",
-    "url": "/minecraft_circle_mapper/static/css/main.3a6c1852.chunk.css"
+    "revision": "ee60d158354e65232336",
+    "url": "/minecraft_circle_mapper/static/css/main.cadfe693.chunk.css"
   },
   {
     "revision": "d0ae03b95cb1de81c716",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/minecraft_circle_mapper/static/js/2.9c62dadc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2f18d9e75145e402ad40",
+    "revision": "ee60d158354e65232336",
     "url": "/minecraft_circle_mapper/static/js/main.66e22dc3.chunk.js"
   },
   {

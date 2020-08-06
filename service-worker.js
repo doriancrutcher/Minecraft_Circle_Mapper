@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/minecraft_circle_mapper/precache-manifest.6da6c4f3d8f03ded931d1447323f54a8.js"
+  "/minecraft_circle_mapper/precache-manifest.9f93a1e8fcfc5bf7ab12bb1de28e7c42.js"
 );
 
 self.addEventListener('message', (event) => {
