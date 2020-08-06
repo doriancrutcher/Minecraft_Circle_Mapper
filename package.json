@@ -2,7 +2,7 @@
   "name": "minecraftcirc",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://doriancrutcher.github.io/deploy-react",
+  "homepage": "http://doriancrutcher.github.io/minecraft_circle_mapper/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
